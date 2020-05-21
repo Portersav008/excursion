@@ -1,0 +1,40 @@
+body {
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+h1{
+	font-family: Verdana, sans-serif;
+	font-weight: normal;
+	font-size: 50px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+.link {
+	color: aquamarine;
+	font-size: 16px;
+}
+h1.middle {
+	font-family: Verdana;
+	font-weight: 300px;
+	font-size: 42px;
+}
+p.middle{
+	font-family: Verdana;
+	color: gray;
+	font-size: 21px;
+}
+p.final {
+	text-align: right;
+	color:gray;
+	display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-size: 21px;
+}
